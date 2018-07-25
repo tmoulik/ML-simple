@@ -11,7 +11,8 @@ Machine learning study on simple datasets
 ## Code Description
 ml-simple is a study of some simple datasets to compare machine learning models
 
-Function "fit" has different machine learning models:
+Function "fit" has different machine learning models. Currently the following models
+are implemented. More will be added.
 
 * naive_bayes
 * MultilayerPerceptron
