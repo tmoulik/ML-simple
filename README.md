@@ -1,5 +1,5 @@
 # ML-simple
-Machine learning study on simple datasets
+Machine learning validation on simple datasets
 
 ## Contact: tania.moulik@gmail.com
 
