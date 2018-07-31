@@ -16,3 +16,4 @@ are implemented. More will be added.
 
 * naive_bayes
 * MultilayerPerceptron
+* Adaboost (Decision Tree)
