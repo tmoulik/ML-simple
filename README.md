@@ -15,3 +15,4 @@ Function "fit" has different machine learning models:
 
 * naive_bayes
 * MultilayerPerceptron
+* Boosted Decision Tree
